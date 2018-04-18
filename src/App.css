@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
   background: blue;
   height:;
@@ -10,4 +10,41 @@
   box-shadow: 0px 13px 40px -13px rgba(0,0,0,0.75);
   width: 80%;
   margin: 0 auto;
+}
+.formgroup{
+  padding-top: 20px;
+} */
+body {
+  background: #E9EBEE; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Oswald", sans-serif;
+  margin-bottom: 0;
+  color: #303030; }
+
+p, button, a, input, q {
+  font-family: "Droid Sans", sans-serif; }
+
+p {
+  margin: 0;}
+.card-block {
+  background: #F6F7F9;
+  border: 1px solid #dddfe2;
+  border-radius: 4px;
+}
+.App .btn-group {
+  vertical-align: top;
+}
+
+.App label {
+  cursor: pointer;
+}
+
+.App input {
+  border: 1px solid #dddfe2;
+  padding: .35rem 1rem;
+}
+
+.App .btn {
+  padding: .35rem 1rem;
 }
